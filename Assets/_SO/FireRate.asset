@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1b4a4ce0ac01534d800ed9ea9d3aa81, type: 3}
+  m_Name: FireRate
+  m_EditorClassIdentifier: 
+  id: firerate
+  displayName: "T\u1ED1c \u0111\u1ED9 b\u1EAFn+"
+  icon: {fileID: -116384241, guid: be2765020d6af8e4889a058a551fd9f8, type: 3}
+  kind: 0
+  maxLevel: 5
+  values:
+  - 0.05
+  - 0.05
+  - 0.05
+  - 0.05
+  - 0.05
+  descTemplate: 
+  valueFormat: 0.#
+  canEvolve: 0
+  requiredPrereqId: 
+  requiredLevel: 7
+  evolveToPattern: 0
+  isPrereqOnly: 0
+  isReroll: 0
+  isSkip: 0
+  obscure: 0
+  revealAfterPicks: 2
+  hideNumbers: 0
+  hideEvoHint: 0
+  unknownName: ???
+  unknownDesc: "Kh\xE1\u2026 th\xFA v\u1ECB. Hi\u1EC7u \u1EE9ng kh\xF3 \u0111o\xE1n."
+  unknownIcon: {fileID: 0}

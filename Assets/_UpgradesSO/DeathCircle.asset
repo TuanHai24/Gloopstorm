@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1b4a4ce0ac01534d800ed9ea9d3aa81, type: 3}
+  m_Name: DeathCircle
+  m_EditorClassIdentifier: 
+  id: death_circle
+  displayName: "V\xF2ng Tr\xF2n T\u1EED Th\u1EA7n"
+  icon: {fileID: -362005336, guid: 74d2293ea175f9b44a6a920dd798bb12, type: 3}
+  kind: 2
+  maxLevel: 7
+  values: []
+  descTemplate: 
+  valueFormat: 0.#
+  canEvolve: 0
+  requiredPrereqId: 
+  requiredLevel: 7
+  evolveToPattern: 0
+  isPrereqOnly: 1
+  isReroll: 0
+  isSkip: 0
+  obscure: 1
+  revealAfterPicks: 2
+  hideNumbers: 1
+  hideEvoHint: 1
+  unknownName: ???
+  unknownDesc: "Kh\xE1\u2026 th\xFA v\u1ECB. Hi\u1EC7u \u1EE9ng kh\xF3 \u0111o\xE1n."
+  unknownIcon: {fileID: 0}

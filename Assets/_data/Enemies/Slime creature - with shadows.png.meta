@@ -1,0 +1,3718 @@
+fileFormatVersion: 2
+guid: 5f71c56278900684791b537b5ddb69f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6106608630469967388
+    second: Slime creature - with shadows_0
+  - first:
+      213: -4337845846030500489
+    second: Slime creature - with shadows_1
+  - first:
+      213: 166287165369137059
+    second: Slime creature - with shadows_2
+  - first:
+      213: 5920232870625186026
+    second: Slime creature - with shadows_3
+  - first:
+      213: -189262754334358094
+    second: Slime creature - with shadows_4
+  - first:
+      213: 490546544095593885
+    second: Slime creature - with shadows_5
+  - first:
+      213: 1239714459123735059
+    second: Slime creature - with shadows_6
+  - first:
+      213: 8675664267810869298
+    second: Slime creature - with shadows_7
+  - first:
+      213: 8290135315138806969
+    second: Slime creature - with shadows_8
+  - first:
+      213: 2007916160968497120
+    second: Slime creature - with shadows_9
+  - first:
+      213: 4728072353362050127
+    second: Slime creature - with shadows_10
+  - first:
+      213: 5142929941133112731
+    second: Slime creature - with shadows_11
+  - first:
+      213: 1065971576943824255
+    second: Slime creature - with shadows_12
+  - first:
+      213: -1619187635352690526
+    second: Slime creature - with shadows_13
+  - first:
+      213: 1609676318629391548
+    second: Slime creature - with shadows_14
+  - first:
+      213: 777073405392030646
+    second: Slime creature - with shadows_15
+  - first:
+      213: 1261165985945034777
+    second: Slime creature - with shadows_16
+  - first:
+      213: -3220932967348245212
+    second: Slime creature - with shadows_17
+  - first:
+      213: 6627433032472531540
+    second: Slime creature - with shadows_18
+  - first:
+      213: 7543876770528022496
+    second: Slime creature - with shadows_19
+  - first:
+      213: -2659650575943465271
+    second: Slime creature - with shadows_20
+  - first:
+      213: 4629321463757109889
+    second: Slime creature - with shadows_21
+  - first:
+      213: 3414558428749423441
+    second: Slime creature - with shadows_22
+  - first:
+      213: 4013443905758817780
+    second: Slime creature - with shadows_23
+  - first:
+      213: -5220787463157436015
+    second: Slime creature - with shadows_24
+  - first:
+      213: 2582412275519087725
+    second: Slime creature - with shadows_25
+  - first:
+      213: 72731888716604157
+    second: Slime creature - with shadows_26
+  - first:
+      213: -828166694872795974
+    second: Slime creature - with shadows_27
+  - first:
+      213: -1476435697906138386
+    second: Slime creature - with shadows_28
+  - first:
+      213: -2624940582072981691
+    second: Slime creature - with shadows_29
+  - first:
+      213: -3093424996246756855
+    second: Slime creature - with shadows_30
+  - first:
+      213: -8914964425815203001
+    second: Slime creature - with shadows_31
+  - first:
+      213: -8463238426448327132
+    second: Slime creature - with shadows_32
+  - first:
+      213: 5919656851284046845
+    second: Slime creature - with shadows_33
+  - first:
+      213: 9020248602096916898
+    second: Slime creature - with shadows_34
+  - first:
+      213: -5455843161694825340
+    second: Slime creature - with shadows_35
+  - first:
+      213: -440431188618630102
+    second: Slime creature - with shadows_36
+  - first:
+      213: -171623782788790385
+    second: Slime creature - with shadows_37
+  - first:
+      213: -1769698867064730295
+    second: Slime creature - with shadows_38
+  - first:
+      213: -7705385051563198379
+    second: Slime creature - with shadows_39
+  - first:
+      213: -4118294496917725140
+    second: Slime creature - with shadows_40
+  - first:
+      213: -5413482222858941076
+    second: Slime creature - with shadows_41
+  - first:
+      213: -3116462817609775630
+    second: Slime creature - with shadows_42
+  - first:
+      213: -1051965641275302730
+    second: Slime creature - with shadows_43
+  - first:
+      213: 1592535391288948480
+    second: Slime creature - with shadows_44
+  - first:
+      213: 8416608866886100385
+    second: Slime creature - with shadows_45
+  - first:
+      213: -5238072216758520845
+    second: Slime creature - with shadows_46
+  - first:
+      213: 6592720280628553946
+    second: Slime creature - with shadows_47
+  - first:
+      213: 2935411626117701601
+    second: Slime creature - with shadows_48
+  - first:
+      213: -3632517673198387653
+    second: Slime creature - with shadows_49
+  - first:
+      213: -1031902584169066186
+    second: Slime creature - with shadows_50
+  - first:
+      213: -3149592571022367052
+    second: Slime creature - with shadows_51
+  - first:
+      213: -2869536647292000794
+    second: Slime creature - with shadows_52
+  - first:
+      213: -9003768944065429038
+    second: Slime creature - with shadows_53
+  - first:
+      213: -1048648571615765508
+    second: Slime creature - with shadows_54
+  - first:
+      213: -7464639236890183817
+    second: Slime creature - with shadows_55
+  - first:
+      213: 924097988689216793
+    second: Slime creature - with shadows_56
+  - first:
+      213: -4212971871245578348
+    second: Slime creature - with shadows_57
+  - first:
+      213: -6116903623811684238
+    second: Slime creature - with shadows_58
+  - first:
+      213: 4243500410397325753
+    second: Slime creature - with shadows_59
+  - first:
+      213: -270620914237955953
+    second: Slime creature - with shadows_60
+  - first:
+      213: -4954947516503192191
+    second: Slime creature - with shadows_61
+  - first:
+      213: 3300271390766639254
+    second: Slime creature - with shadows_62
+  - first:
+      213: 6892282425858382508
+    second: Slime creature - with shadows_63
+  - first:
+      213: -8396677606282467379
+    second: Slime creature - with shadows_64
+  - first:
+      213: -8731443405074317232
+    second: Slime creature - with shadows_65
+  - first:
+      213: 6867903231501075070
+    second: Slime creature - with shadows_66
+  - first:
+      213: 4845711075431204506
+    second: Slime creature - with shadows_67
+  - first:
+      213: -6150576638637652920
+    second: Slime creature - with shadows_68
+  - first:
+      213: 7743974347133686901
+    second: Slime creature - with shadows_69
+  - first:
+      213: 5591366495281120018
+    second: Slime creature - with shadows_70
+  - first:
+      213: 1458661450979227485
+    second: Slime creature - with shadows_71
+  - first:
+      213: 4019042280640097103
+    second: Slime creature - with shadows_72
+  - first:
+      213: 8038712302293313740
+    second: Slime creature - with shadows_73
+  - first:
+      213: -6001793010768531171
+    second: Slime creature - with shadows_74
+  - first:
+      213: -8744583887690781862
+    second: Slime creature - with shadows_75
+  - first:
+      213: -7431918549024288939
+    second: Slime creature - with shadows_76
+  - first:
+      213: -2492364344888212776
+    second: Slime creature - with shadows_77
+  - first:
+      213: 8380249516654962106
+    second: Slime creature - with shadows_78
+  - first:
+      213: -2313527438002571339
+    second: Slime creature - with shadows_79
+  - first:
+      213: -1061061032354631462
+    second: Slime creature - with shadows_80
+  - first:
+      213: -7028256396515987386
+    second: Slime creature - with shadows_81
+  - first:
+      213: -6154877245732580173
+    second: Slime creature - with shadows_82
+  - first:
+      213: 8592548187181992333
+    second: Slime creature - with shadows_83
+  - first:
+      213: -3134642203765915451
+    second: Slime creature - with shadows_84
+  - first:
+      213: -3983256982985649186
+    second: Slime creature - with shadows_85
+  - first:
+      213: -1491544193063532432
+    second: Slime creature - with shadows_86
+  - first:
+      213: 5294897558303473031
+    second: Slime creature - with shadows_87
+  - first:
+      213: 4148761997405269047
+    second: Slime creature - with shadows_88
+  - first:
+      213: -1893441264485812002
+    second: Slime creature - with shadows_89
+  - first:
+      213: -3176291246947307163
+    second: Slime creature - with shadows_90
+  - first:
+      213: 4951322540048026460
+    second: Slime creature - with shadows_91
+  - first:
+      213: -975254605067761394
+    second: Slime creature - with shadows_92
+  - first:
+      213: 3581689767237351239
+    second: Slime creature - with shadows_93
+  - first:
+      213: -6439227704538784502
+    second: Slime creature - with shadows_94
+  - first:
+      213: 6383838851783270497
+    second: Slime creature - with shadows_95
+  - first:
+      213: -1023131577391012953
+    second: Slime creature - with shadows_96
+  - first:
+      213: 5735734301884788128
+    second: Slime creature - with shadows_97
+  - first:
+      213: -2887780283899401548
+    second: Slime creature - with shadows_98
+  - first:
+      213: 2086028055002553693
+    second: Slime creature - with shadows_99
+  - first:
+      213: 8646109929289829791
+    second: Slime creature - with shadows_100
+  - first:
+      213: -418689239430846100
+    second: Slime creature - with shadows_101
+  - first:
+      213: -5918292424267890754
+    second: Slime creature - with shadows_102
+  - first:
+      213: 6576490137744889955
+    second: Slime creature - with shadows_103
+  - first:
+      213: -4268103403474763786
+    second: Slime creature - with shadows_104
+  - first:
+      213: -6599929523800089318
+    second: Slime creature - with shadows_105
+  - first:
+      213: -7606151097479110386
+    second: Slime creature - with shadows_106
+  - first:
+      213: -7407441326442616168
+    second: Slime creature - with shadows_107
+  - first:
+      213: 4894896213011181624
+    second: Slime creature - with shadows_108
+  - first:
+      213: -7332872167023323357
+    second: Slime creature - with shadows_109
+  - first:
+      213: -8854803953716333599
+    second: Slime creature - with shadows_110
+  - first:
+      213: 2296687076169574258
+    second: Slime creature - with shadows_111
+  - first:
+      213: -5271759366206609740
+    second: Slime creature - with shadows_112
+  - first:
+      213: 2283031914574020057
+    second: Slime creature - with shadows_113
+  - first:
+      213: -8029370904984581160
+    second: Slime creature - with shadows_114
+  - first:
+      213: 4006209234186186062
+    second: Slime creature - with shadows_115
+  - first:
+      213: -5257273892380704199
+    second: Slime creature - with shadows_116
+  - first:
+      213: -6395204719043126552
+    second: Slime creature - with shadows_117
+  - first:
+      213: -1291506736913504495
+    second: Slime creature - with shadows_118
+  - first:
+      213: 5362393856053560558
+    second: Slime creature - with shadows_119
+  - first:
+      213: -1262758714708366086
+    second: Slime creature - with shadows_120
+  - first:
+      213: -3794010774924118066
+    second: Slime creature - with shadows_121
+  - first:
+      213: -6597068750128858387
+    second: Slime creature - with shadows_122
+  - first:
+      213: 5877600248690026042
+    second: Slime creature - with shadows_123
+  - first:
+      213: -2029739861338034044
+    second: Slime creature - with shadows_124
+  - first:
+      213: -2379450347060976589
+    second: Slime creature - with shadows_125
+  - first:
+      213: -868718032487418121
+    second: Slime creature - with shadows_126
+  - first:
+      213: 5460425591424175638
+    second: Slime creature - with shadows_127
+  - first:
+      213: 6599620691179888631
+    second: Slime creature - with shadows_128
+  - first:
+      213: 6068089437869054341
+    second: Slime creature - with shadows_129
+  - first:
+      213: -2100241742544668137
+    second: Slime creature - with shadows_130
+  - first:
+      213: 1014376108526642984
+    second: Slime creature - with shadows_131
+  - first:
+      213: -6386334578472097625
+    second: Slime creature - with shadows_132
+  - first:
+      213: -4561263170411441438
+    second: Slime creature - with shadows_133
+  - first:
+      213: -6969296250170495206
+    second: Slime creature - with shadows_134
+  - first:
+      213: 4065046285283096801
+    second: Slime creature - with shadows_135
+  - first:
+      213: -2554851593691297745
+    second: Slime creature - with shadows_136
+  - first:
+      213: 2830350688442938945
+    second: Slime creature - with shadows_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime creature - with shadows_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1344
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1c0860ec7f04ba0800000000000000
+      internalID: -6106608630469967388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1343
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db2f89f20ecc3c0800000000000000
+      internalID: -4337845846030500489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1344
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7b88ebb45ce4200800000000000000
+      internalID: 166287165369137059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1344
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09439dd64e82250800000000000000
+      internalID: 5920232870625186026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1280
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b540b6178a9f5df0800000000000000
+      internalID: -189262754334358094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1281
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d950d9a9b75cec600800000000000000
+      internalID: 490546544095593885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1280
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a5cf67bb9543110800000000000000
+      internalID: 1239714459123735059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1280
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309a699fa6266870800000000000000
+      internalID: 8675664267810869298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1297
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b405c6652a7c0370800000000000000
+      internalID: 8290135315138806969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1297
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e71b492c1d8ddb10800000000000000
+      internalID: 2007916160968497120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1297
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c7d7641cc7d9140800000000000000
+      internalID: 4728072353362050127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1297
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b5f5788b5f5740800000000000000
+      internalID: 5142929941133112731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1297
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d466060871bce00800000000000000
+      internalID: 1065971576943824255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1215
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0291aac6d7789e0800000000000000
+      internalID: -1619187635352690526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc63475518b65610800000000000000
+      internalID: 1609676318629391548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1215
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb8bc42528b8ca00800000000000000
+      internalID: 777073405392030646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1216
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9102f0348cf808110800000000000000
+      internalID: 1261165985945034777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1151
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42decdb0882fc43d0800000000000000
+      internalID: -3220932967348245212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1151
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4521739ba3f59fb50800000000000000
+      internalID: 6627433032472531540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1152
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efc4a024fb31b860800000000000000
+      internalID: 7543876770528022496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1151
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c60a3284e5071bd0800000000000000
+      internalID: -2659650575943465271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1087
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a75561857ae3040800000000000000
+      internalID: 4629321463757109889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1087
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ec62ccc2f26f20800000000000000
+      internalID: 3414558428749423441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1088
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fde5b8d7fd92b730800000000000000
+      internalID: 4013443905758817780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1088
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19130b296790c87b0800000000000000
+      internalID: -5220787463157436015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1023
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d646ce9484296d320800000000000000
+      internalID: 2582412275519087725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ebc67445620100800000000000000
+      internalID: 72731888716604157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1024
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab43c4167c2c184f0800000000000000
+      internalID: -828166694872795974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1042
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee249942e85a28be0800000000000000
+      internalID: -1476435697906138386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1042
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5476809b276529bd0800000000000000
+      internalID: -2624940582072981691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1042
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e5670b52f115d0800000000000000
+      internalID: -3093424996246756855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1042
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436a06961fa74480800000000000000
+      internalID: -8914964425815203001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1042
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e8c16cd798c8a80800000000000000
+      internalID: -8463238426448327132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1023
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df33ef4ea88d62250800000000000000
+      internalID: 5919656851284046845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 975
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a953b1ff4c5e2d70800000000000000
+      internalID: 9020248602096916898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 975
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4849fecfc83f844b0800000000000000
+      internalID: -5455843161694825340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 974
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c226eda2643e9f0800000000000000
+      internalID: -440431188618630102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 976
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f878ddf24154e9df0800000000000000
+      internalID: -171623782788790385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 911
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d0235b144c077e0800000000000000
+      internalID: -1769698867064730295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 912
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55878f7de19f01590800000000000000
+      internalID: -7705385051563198379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 912
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e5c689f0e8d6c0800000000000000
+      internalID: -4118294496917725140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 912
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc994a9927fd4b0800000000000000
+      internalID: -5413482222858941076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f508a0449910c4d0800000000000000
+      internalID: -3116462817609775630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 847
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9ed3a2daa661f0800000000000000
+      internalID: -1051965641275302730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 847
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f3023082d91610800000000000000
+      internalID: 1592535391288948480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 847
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5262cdb2dcdc470800000000000000
+      internalID: 8416608866886100385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 784
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f3444211ae47b0800000000000000
+      internalID: -5238072216758520845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 784
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e06e5a2c0e7b50800000000000000
+      internalID: 6592720280628553946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 784
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1c4c425dacb820800000000000000
+      internalID: 2935411626117701601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_49
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 784
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e7ea01c64b69dc0800000000000000
+      internalID: -3632517673198387653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_50
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 816
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319bc32112fda1f0800000000000000
+      internalID: -1031902584169066186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_51
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 817
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a0017e366a44d0800000000000000
+      internalID: -3149592571022367052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 720
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5e13c6f9b5d28d0800000000000000
+      internalID: -2869536647292000794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 720
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1494179df2c0380800000000000000
+      internalID: -9003768944065429038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 720
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1f9a1ea37271f0800000000000000
+      internalID: -1048648571615765508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777b7b4d926486890800000000000000
+      internalID: -7464639236890183817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 656
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154971893e03dc00800000000000000
+      internalID: 924097988689216793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 656
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fc1b587648885c0800000000000000
+      internalID: -4212971871245578348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 656
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a76910946c1ba0800000000000000
+      internalID: -6116903623811684238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 656
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f4f5e321f3ea30800000000000000
+      internalID: 4243500410397325753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 592
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f802e0a56bf8e3cf0800000000000000
+      internalID: -270620914237955953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 592
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d8f167c7d7c3bb0800000000000000
+      internalID: -4954947516503192191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 592
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698a705285beccd20800000000000000
+      internalID: 3300271390766639254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 591
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caad4f4795e46af50800000000000000
+      internalID: 6892282425858382508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 528
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76e006432097b80800000000000000
+      internalID: -8396677606282467379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 537
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504e18fb7ea3d680800000000000000
+      internalID: -8731443405074317232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 528
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e720161f991bf4f50800000000000000
+      internalID: 6867903231501075070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_67
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 528
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c047ac8c6f3340800000000000000
+      internalID: 4845711075431204506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_68
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 545
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844cf226223c4aaa0800000000000000
+      internalID: -6150576638637652920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 546
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57414aea3af187b60800000000000000
+      internalID: 7743974347133686901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_70
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 546
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21380400436889d40800000000000000
+      internalID: 5591366495281120018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_71
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 545
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573c218cd43e3410800000000000000
+      internalID: 1458661450979227485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 545
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b24d219a186c730800000000000000
+      internalID: 4019042280640097103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 545
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc861cd7f3e3f8f60800000000000000
+      internalID: 8038712302293313740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 528
+        width: 65
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1138b93e0955bca0800000000000000
+      internalID: -6001793010768531171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2691f84ff4a680800000000000000
+      internalID: -8744583887690781862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 474
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f45c5a4758cd890800000000000000
+      internalID: -7431918549024288939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 464
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c61c55d7596dd0800000000000000
+      internalID: -2492364344888212776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 464
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ab51f880ac4470800000000000000
+      internalID: 8380249516654962106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 464
+        width: 65
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7bcbf7d03b4efd0800000000000000
+      internalID: -2313527438002571339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 399
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad03e71ec9a5641f0800000000000000
+      internalID: -1061061032354631462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 404
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6403c4f6b0e967e90800000000000000
+      internalID: -7028256396515987386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 417
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b499f341cb759aa0800000000000000
+      internalID: -6154877245732580173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 405
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c86c0d0dde3770800000000000000
+      internalID: 8592548187181992333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 399
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0c59216838f74d0800000000000000
+      internalID: -3134642203765915451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3db00d0e0a8b8c0800000000000000
+      internalID: -3983256982985649186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_86
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 399
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c6ad7578fc4be0800000000000000
+      internalID: -1491544193063532432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_87
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 399
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df2c496414b7940800000000000000
+      internalID: 5294897558303473031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2bf83e0d539930800000000000000
+      internalID: 4148761997405269047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_89
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b14ba33529b5e0800000000000000
+      internalID: -1893441264485812002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 346
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f58a80fb8be3d0800000000000000
+      internalID: -3176291246947307163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 340
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b82ffed91a6b440800000000000000
+      internalID: 4951322540048026460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_92
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 340
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e094f539a133772f0800000000000000
+      internalID: -975254605067761394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 335
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74775dfddd7b4b130800000000000000
+      internalID: 3581689767237351239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 335
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d9c1be48443a6a0800000000000000
+      internalID: -6439227704538784502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 335
+        width: 44
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16021e7dc93f79850800000000000000
+      internalID: 6383838851783270497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3af1b404b1dc1f0800000000000000
+      internalID: -1023131577391012953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 272
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adadd555fb699f40800000000000000
+      internalID: 5735734301884788128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_98
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 272
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baacc4c12b8ce7d0800000000000000
+      internalID: -2887780283899401548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1de9b67f03fc10800000000000000
+      internalID: 2086028055002553693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_100
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 272
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4c40fb272df770800000000000000
+      internalID: 8646109929289829791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c692274ea54803af0800000000000000
+      internalID: -418689239430846100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_102
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 292
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf70a685600edda0800000000000000
+      internalID: -5918292424267890754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_103
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 291
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368d421cfe2644b50800000000000000
+      internalID: 6576490137744889955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_104
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 290
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff30436196a4c4c0800000000000000
+      internalID: -4268103403474763786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_105
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 290
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d5847e0175864a0800000000000000
+      internalID: -6599929523800089318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 208
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016fce30e5817690800000000000000
+      internalID: -7606151097479110386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 205
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ae6d22c5b733990800000000000000
+      internalID: -7407441326442616168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 209
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830bfe4eb2a2ee340800000000000000
+      internalID: 4894896213011181624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 205
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d9358d976c3a90800000000000000
+      internalID: -7332872167023323357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_110
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 225
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3730708ba6d1580800000000000000
+      internalID: -8854803953716333599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_111
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 227
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27761573ab87fdf10800000000000000
+      internalID: 2296687076169574258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_112
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 211
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6aae399c2f6d6b0800000000000000
+      internalID: -5271759366206609740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_113
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 205
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd70172e65feaf10800000000000000
+      internalID: 2283031914574020057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_114
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 204
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db898e04b1f19090800000000000000
+      internalID: -8029370904984581160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_115
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dae8b921ae89730800000000000000
+      internalID: 4006209234186186062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 141
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93286b5cf396a07b0800000000000000
+      internalID: -5257273892380704199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_117
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 142
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5887f03baf37a0800000000000000
+      internalID: -6395204719043126552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_118
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 141
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1172f392775a31ee0800000000000000
+      internalID: -1291506736913504495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_119
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 162
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee44fc70dcc0b6a40800000000000000
+      internalID: 5362393856053560558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_120
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 141
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc67cca3a7c97ee0800000000000000
+      internalID: -1262758714708366086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_121
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 139
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7b4ae3d47f85bc0800000000000000
+      internalID: -3794010774924118066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_122
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea3dbdace08274a0800000000000000
+      internalID: -6597068750128858387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 77
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36aaea094e619150800000000000000
+      internalID: 5877600248690026042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_124
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 101
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480fe72a95ae4d3e0800000000000000
+      internalID: -2029739861338034044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_125
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 76
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33420c6248e7afed0800000000000000
+      internalID: -2379450347060976589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67c975d81b1f3f0800000000000000
+      internalID: -868718032487418121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_127
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 77
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e4a43152457cb40800000000000000
+      internalID: 5460425591424175638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff58166d00969b50800000000000000
+      internalID: 6599620691179888631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_129
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 73
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891c71913f263450800000000000000
+      internalID: 6068089437869054341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a7d2143417ad2e0800000000000000
+      internalID: -2100241742544668137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_131
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 13
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827af5142b9c31e00800000000000000
+      internalID: 1014376108526642984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_132
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a86061898e2f57a0800000000000000
+      internalID: -6386334578472097625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_133
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2dd88205323b0c0800000000000000
+      internalID: -4561263170411441438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_134
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 37
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f20224cf5184f90800000000000000
+      internalID: -6969296250170495206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_135
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 13
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f1d51f02f96830800000000000000
+      internalID: 4065046285283096801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28803003085b8cd0800000000000000
+      internalID: -2554851593691297745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime creature - with shadows_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1467c6e84fc674720800000000000000
+      internalID: 2830350688442938945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58ac9647837fda24384cd4655e57d187
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime creature - with shadows_0: -6106608630469967388
+      Slime creature - with shadows_1: -4337845846030500489
+      Slime creature - with shadows_10: 4728072353362050127
+      Slime creature - with shadows_100: 8646109929289829791
+      Slime creature - with shadows_101: -418689239430846100
+      Slime creature - with shadows_102: -5918292424267890754
+      Slime creature - with shadows_103: 6576490137744889955
+      Slime creature - with shadows_104: -4268103403474763786
+      Slime creature - with shadows_105: -6599929523800089318
+      Slime creature - with shadows_106: -7606151097479110386
+      Slime creature - with shadows_107: -7407441326442616168
+      Slime creature - with shadows_108: 4894896213011181624
+      Slime creature - with shadows_109: -7332872167023323357
+      Slime creature - with shadows_11: 5142929941133112731
+      Slime creature - with shadows_110: -8854803953716333599
+      Slime creature - with shadows_111: 2296687076169574258
+      Slime creature - with shadows_112: -5271759366206609740
+      Slime creature - with shadows_113: 2283031914574020057
+      Slime creature - with shadows_114: -8029370904984581160
+      Slime creature - with shadows_115: 4006209234186186062
+      Slime creature - with shadows_116: -5257273892380704199
+      Slime creature - with shadows_117: -6395204719043126552
+      Slime creature - with shadows_118: -1291506736913504495
+      Slime creature - with shadows_119: 5362393856053560558
+      Slime creature - with shadows_12: 1065971576943824255
+      Slime creature - with shadows_120: -1262758714708366086
+      Slime creature - with shadows_121: -3794010774924118066
+      Slime creature - with shadows_122: -6597068750128858387
+      Slime creature - with shadows_123: 5877600248690026042
+      Slime creature - with shadows_124: -2029739861338034044
+      Slime creature - with shadows_125: -2379450347060976589
+      Slime creature - with shadows_126: -868718032487418121
+      Slime creature - with shadows_127: 5460425591424175638
+      Slime creature - with shadows_128: 6599620691179888631
+      Slime creature - with shadows_129: 6068089437869054341
+      Slime creature - with shadows_13: -1619187635352690526
+      Slime creature - with shadows_130: -2100241742544668137
+      Slime creature - with shadows_131: 1014376108526642984
+      Slime creature - with shadows_132: -6386334578472097625
+      Slime creature - with shadows_133: -4561263170411441438
+      Slime creature - with shadows_134: -6969296250170495206
+      Slime creature - with shadows_135: 4065046285283096801
+      Slime creature - with shadows_136: -2554851593691297745
+      Slime creature - with shadows_137: 2830350688442938945
+      Slime creature - with shadows_14: 1609676318629391548
+      Slime creature - with shadows_15: 777073405392030646
+      Slime creature - with shadows_16: 1261165985945034777
+      Slime creature - with shadows_17: -3220932967348245212
+      Slime creature - with shadows_18: 6627433032472531540
+      Slime creature - with shadows_19: 7543876770528022496
+      Slime creature - with shadows_2: 166287165369137059
+      Slime creature - with shadows_20: -2659650575943465271
+      Slime creature - with shadows_21: 4629321463757109889
+      Slime creature - with shadows_22: 3414558428749423441
+      Slime creature - with shadows_23: 4013443905758817780
+      Slime creature - with shadows_24: -5220787463157436015
+      Slime creature - with shadows_25: 2582412275519087725
+      Slime creature - with shadows_26: 72731888716604157
+      Slime creature - with shadows_27: -828166694872795974
+      Slime creature - with shadows_28: -1476435697906138386
+      Slime creature - with shadows_29: -2624940582072981691
+      Slime creature - with shadows_3: 5920232870625186026
+      Slime creature - with shadows_30: -3093424996246756855
+      Slime creature - with shadows_31: -8914964425815203001
+      Slime creature - with shadows_32: -8463238426448327132
+      Slime creature - with shadows_33: 5919656851284046845
+      Slime creature - with shadows_34: 9020248602096916898
+      Slime creature - with shadows_35: -5455843161694825340
+      Slime creature - with shadows_36: -440431188618630102
+      Slime creature - with shadows_37: -171623782788790385
+      Slime creature - with shadows_38: -1769698867064730295
+      Slime creature - with shadows_39: -7705385051563198379
+      Slime creature - with shadows_4: -189262754334358094
+      Slime creature - with shadows_40: -4118294496917725140
+      Slime creature - with shadows_41: -5413482222858941076
+      Slime creature - with shadows_42: -3116462817609775630
+      Slime creature - with shadows_43: -1051965641275302730
+      Slime creature - with shadows_44: 1592535391288948480
+      Slime creature - with shadows_45: 8416608866886100385
+      Slime creature - with shadows_46: -5238072216758520845
+      Slime creature - with shadows_47: 6592720280628553946
+      Slime creature - with shadows_48: 2935411626117701601
+      Slime creature - with shadows_49: -3632517673198387653
+      Slime creature - with shadows_5: 490546544095593885
+      Slime creature - with shadows_50: -1031902584169066186
+      Slime creature - with shadows_51: -3149592571022367052
+      Slime creature - with shadows_52: -2869536647292000794
+      Slime creature - with shadows_53: -9003768944065429038
+      Slime creature - with shadows_54: -1048648571615765508
+      Slime creature - with shadows_55: -7464639236890183817
+      Slime creature - with shadows_56: 924097988689216793
+      Slime creature - with shadows_57: -4212971871245578348
+      Slime creature - with shadows_58: -6116903623811684238
+      Slime creature - with shadows_59: 4243500410397325753
+      Slime creature - with shadows_6: 1239714459123735059
+      Slime creature - with shadows_60: -270620914237955953
+      Slime creature - with shadows_61: -4954947516503192191
+      Slime creature - with shadows_62: 3300271390766639254
+      Slime creature - with shadows_63: 6892282425858382508
+      Slime creature - with shadows_64: -8396677606282467379
+      Slime creature - with shadows_65: -8731443405074317232
+      Slime creature - with shadows_66: 6867903231501075070
+      Slime creature - with shadows_67: 4845711075431204506
+      Slime creature - with shadows_68: -6150576638637652920
+      Slime creature - with shadows_69: 7743974347133686901
+      Slime creature - with shadows_7: 8675664267810869298
+      Slime creature - with shadows_70: 5591366495281120018
+      Slime creature - with shadows_71: 1458661450979227485
+      Slime creature - with shadows_72: 4019042280640097103
+      Slime creature - with shadows_73: 8038712302293313740
+      Slime creature - with shadows_74: -6001793010768531171
+      Slime creature - with shadows_75: -8744583887690781862
+      Slime creature - with shadows_76: -7431918549024288939
+      Slime creature - with shadows_77: -2492364344888212776
+      Slime creature - with shadows_78: 8380249516654962106
+      Slime creature - with shadows_79: -2313527438002571339
+      Slime creature - with shadows_8: 8290135315138806969
+      Slime creature - with shadows_80: -1061061032354631462
+      Slime creature - with shadows_81: -7028256396515987386
+      Slime creature - with shadows_82: -6154877245732580173
+      Slime creature - with shadows_83: 8592548187181992333
+      Slime creature - with shadows_84: -3134642203765915451
+      Slime creature - with shadows_85: -3983256982985649186
+      Slime creature - with shadows_86: -1491544193063532432
+      Slime creature - with shadows_87: 5294897558303473031
+      Slime creature - with shadows_88: 4148761997405269047
+      Slime creature - with shadows_89: -1893441264485812002
+      Slime creature - with shadows_9: 2007916160968497120
+      Slime creature - with shadows_90: -3176291246947307163
+      Slime creature - with shadows_91: 4951322540048026460
+      Slime creature - with shadows_92: -975254605067761394
+      Slime creature - with shadows_93: 3581689767237351239
+      Slime creature - with shadows_94: -6439227704538784502
+      Slime creature - with shadows_95: 6383838851783270497
+      Slime creature - with shadows_96: -1023131577391012953
+      Slime creature - with shadows_97: 5735734301884788128
+      Slime creature - with shadows_98: -2887780283899401548
+      Slime creature - with shadows_99: 2086028055002553693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

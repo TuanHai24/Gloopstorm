@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f0f76b4191b2b1a49b3dcb120e533d37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3867927054992019710
+    second: Mo-bia_0
+  - first:
+      213: -601750574069538490
+    second: Mo-bia_1
+  - first:
+      213: -8894880410875668612
+    second: Mo-bia_2
+  - first:
+      213: 3132321952351774812
+    second: Mo-bia_3
+  - first:
+      213: -6985012210216536139
+    second: Mo-bia_4
+  - first:
+      213: 200810966609738481
+    second: Mo-bia_5
+  - first:
+      213: 3776902666653360663
+    second: Mo-bia_6
+  - first:
+      213: -3471639493651628784
+    second: Mo-bia_7
+  - first:
+      213: -6654004557178969573
+    second: Mo-bia_8
+  - first:
+      213: 1965608001770086841
+    second: Mo-bia_9
+  - first:
+      213: -4640370572123756203
+    second: Mo-bia_10
+  - first:
+      213: -4058463509001547331
+    second: Mo-bia_11
+  - first:
+      213: 7495430379198593919
+    second: Mo-bia_12
+  - first:
+      213: -5536599068342710429
+    second: Mo-bia_13
+  - first:
+      213: -5626332810708437893
+    second: Mo-bia_14
+  - first:
+      213: 266463628454430289
+    second: Mo-bia_15
+  - first:
+      213: 877206901647055218
+    second: Mo-bia_16
+  - first:
+      213: 2522798112195906925
+    second: Mo-bia_17
+  - first:
+      213: -7029899197140001503
+    second: Mo-bia_18
+  - first:
+      213: 1255701748598724399
+    second: Mo-bia_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mo-bia_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 751
+        width: 203
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef01ce1d923ada530800000000000000
+      internalID: 3867927054992019710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 759
+        width: 133
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a2358a0726a7f0800000000000000
+      internalID: -601750574069538490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_2
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 761
+        width: 142
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77dc26b4690f8480800000000000000
+      internalID: -8894880410875668612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 765
+        width: 133
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58e51c483e387b20800000000000000
+      internalID: 3132321952351774812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 552
+        width: 146
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f64a2760401f90800000000000000
+      internalID: -6985012210216536139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 559
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab6cb928c69c200800000000000000
+      internalID: 200810966609738481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 567
+        width: 149
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126915e6f04a6430800000000000000
+      internalID: 3776902666653360663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 567
+        width: 194
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d7da8264242dfc0800000000000000
+      internalID: -3471639493651628784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 351
+        width: 145
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1264831c1a38a3a0800000000000000
+      internalID: -6654004557178969573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 355
+        width: 154
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1eb29301e374b10800000000000000
+      internalID: 1965608001770086841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 355
+        width: 130
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5592366ec871a9fb0800000000000000
+      internalID: -4640370572123756203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 356
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1d314f0f07da7c0800000000000000
+      internalID: -4058463509001547331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 179
+        width: 112
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bbdc6a73e150860800000000000000
+      internalID: 7495430379198593919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 180
+        width: 180
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f8ca34b7c0a23b0800000000000000
+      internalID: -5536599068342710429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 175
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7439954e104be1b0800000000000000
+      internalID: -5626332810708437893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 191
+        width: 84
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156869f124ba2b300800000000000000
+      internalID: 266463628454430289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 23
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279913787077c2c00800000000000000
+      internalID: 877206901647055218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 23
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d86754487c20320800000000000000
+      internalID: 2522798112195906925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 31
+        width: 155
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d9aab1de7c07e90800000000000000
+      internalID: -7029899197140001503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mo-bia_19
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 29
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27501d56162d6110800000000000000
+      internalID: 1255701748598724399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mo-bia_0: 3867927054992019710
+      Mo-bia_1: -601750574069538490
+      Mo-bia_10: -4640370572123756203
+      Mo-bia_11: -4058463509001547331
+      Mo-bia_12: 7495430379198593919
+      Mo-bia_13: -5536599068342710429
+      Mo-bia_14: -5626332810708437893
+      Mo-bia_15: 266463628454430289
+      Mo-bia_16: 877206901647055218
+      Mo-bia_17: 2522798112195906925
+      Mo-bia_18: -7029899197140001503
+      Mo-bia_19: 1255701748598724399
+      Mo-bia_2: -8894880410875668612
+      Mo-bia_3: 3132321952351774812
+      Mo-bia_4: -6985012210216536139
+      Mo-bia_5: 200810966609738481
+      Mo-bia_6: 3776902666653360663
+      Mo-bia_7: -3471639493651628784
+      Mo-bia_8: -6654004557178969573
+      Mo-bia_9: 1965608001770086841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
